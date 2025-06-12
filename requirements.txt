@@ -1,0 +1,4 @@
+flask
+river
+streamlit
+requests
