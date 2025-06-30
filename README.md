@@ -27,14 +27,4 @@ Trained on the CICIDS2017 dataset, this system uses adaptive machine learning an
 
 ---
 
-## 📂 Project Structure
-
-ids-project/
-├── api.py # Flask API backend
-├── model.py # Online ML model class (AutoML + drift)
-├── dashboard.py # Streamlit UI for testing and visualization
-├── data/
-│ └── cic_0.01km.csv # Sample CICIDS2017 data
-├── requirements.txt # Dependencies
-└── README.md # Project overview
 
