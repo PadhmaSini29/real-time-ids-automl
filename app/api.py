@@ -1,4 +1,5 @@
 #api.py
+from app.model import IDSModel
 
 from flask import Flask, request, jsonify
 from app.model import IDSModel
