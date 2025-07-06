@@ -1,5 +1,7 @@
+#api.py
+
 from flask import Flask, request, jsonify
-from model import IDSModel
+from app.model import IDSModel
 import pandas as pd
 
 app = Flask(__name__)

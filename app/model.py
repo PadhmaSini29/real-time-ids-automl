@@ -1,3 +1,5 @@
+#model.py
+
 from river.ensemble.adaptive_random_forest import AdaptiveRandomForestClassifier
 from river.metrics import Accuracy
 from river.drift import ADWIN
