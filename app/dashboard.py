@@ -1,4 +1,5 @@
 #dashboard.py
+from model import IDSModel
 
 import streamlit as st
 import requests
