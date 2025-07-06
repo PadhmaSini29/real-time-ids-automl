@@ -11,7 +11,7 @@ ids_model = IDSModel()
 
 # 🔄 Step 1: Warm-up the model using your CSV
 try:
-    df = pd.read_csv("cic_0.01km.csv")
+    df = pd.read_csv("data/cic_0.01km.csv")
     df = df.dropna()
 
     # 🔍 Show available columns
