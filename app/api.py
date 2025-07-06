@@ -3,7 +3,7 @@
 from model import IDSModel
 
 from flask import Flask, request, jsonify
-from app.model import IDSModel
+
 import pandas as pd
 
 app = Flask(__name__)
