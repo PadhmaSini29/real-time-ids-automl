@@ -1,5 +1,5 @@
 
-# 🔐 Real-Time Intrusion Detection System (IDS) — MLOps Project
+# 🔐 Real-Time Intrusion Detection System (IDS) 
 
 A real-time, online-learning-based Intrusion Detection System that uses:
 - **Flask** for the backend API
