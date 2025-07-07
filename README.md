@@ -121,7 +121,7 @@ Metrics include:
 ### 🔵 Render.com (API)
 - Deploy `app/api.py` as a Flask service
 - Update dashboard to point to public API endpoint
-
+https://real-time-ids-automl.onrender.com/
 ---
 
 ## ✅ Example Input & Output
